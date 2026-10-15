@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Bind
 
-### 💻 Frontend Developer | BCA Student | Web Developer
+### 💻 Full Stack Developer | BCA Student | 
 
 I am a passionate Web Developer and BCA student interested in building responsive and user-friendly web applications.
 
